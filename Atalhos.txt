@@ -1,0 +1,21 @@
+Legenda: ** == Muito útil
+         *  == Util
+         "" == Básico
+
+
+""CTRL+SHIFT+T -> Abre a busca de classes do eclipse;""
+""CTRL+O       -> Abre uma lista com os metodos da classe aberta;""
+""CTRL+O (2x)  -> Abre uma lista com os metodos da classe aberta e da classe mãe dela (Se não tiver, é Object);""
+**CTRL+T       -> Mostra que classe implemente aquela selecionada** (Alternativa F4 ou CTRL+ALT+H)
+*CTRL+G        -> Busca a declaração de um termo (classe, atributo, método) no workspace*
+*CTRL+SHIFT+G  -> Busca os usos de um termo no workspace, em arquivos Java*
+*CTRL+ALT+G    -> Busca o termo textualmente, em todos os arquivos da workspace
+""CTRL+SHIFT+W -> Fecha todas as abas aberta no Eclipse""
+*ALT+SHIFT+T   -> Exibe o menu do Eclipse com opção de refactor*
+**CTRL+SHIFT+CIMA -> Move o curso para o inicio do método**
+**CTRL+SHIFT+B -> Adicionar break point na linha**
+**CTRL+R       -> Faz com que o cursor va para a linha selecionada quando em DEBUG**
+**F7           -> Volta para o método anterior quando em DEBUG**
+*CTRL+SHIFT+L  -> Exibe os atalhos disponiveis no Eclipse*
+
+
